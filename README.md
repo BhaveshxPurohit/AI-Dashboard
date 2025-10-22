@@ -38,7 +38,8 @@ For this assignment, you will use:
     - refer to the nextjs learn course below and the walkthrough video
 
 
-<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/abb24f0a-4e41-45b8-a240-fc21bd822895" />
+<img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/18cfc4ce-7c2f-436e-856c-8293644deef1" />
+
 <img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/b13d957c-9d37-4f6c-b967-f72ccd9b10f9" />
 
 
